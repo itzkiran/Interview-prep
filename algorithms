@@ -1,0 +1,35 @@
+
+Here is a list of data structures to master:
+Arrays and Lists
+2D Arrays
+Strings
+Linked List
+Stack
+Queue
+Hash Table & Hash Set
+Heap
+Graphs
+Binary Tree
+Binary Search Tree
+Trie
+(Month #1) Master a few classic algorithms: You should know how to implement them in < 10 minutes if you practice them a few times.
+Binary Search
+Breadth First Search
+Depth First Search
+Merge Sort
+Quick Sort
+Selection Algorithm
+(Month #1) Prepare for Recursion and Backtracking: Used very often. Do the following problems to get a good base:
+Recursive Practice Problems with Solutions - GeeksforGeeks
+
+Congratulations! You’ve mastered the basics. Now for the good part.
+(Month #2 & #3) Get Cracking the Coding Interview(CTCI). It gives you a good baseline. Most questions are on the easier side (for Google and Facebook). But it’s good to know them before proceeding to harder questions.
+
+Note: You don’t need to implement all the questions. Follow this strategy:
+For each chapter, implement the first 2 questions. This gives you practice with that data structure.
+Then, go down the list of questions and try to solve them. Try visualizing the code in your head. Can you figure out the structure?
+If yes, move to the next question to save time.
+If no, try implementing the code.
+
+Congratulations! You’re now good at many simple and some advanced problems. Time to do realistic stuff.
+(Month #4 and #5) Get Elements of Programming Interviews. This is the best collection of realistic problems for Google/Facebook interviews.
